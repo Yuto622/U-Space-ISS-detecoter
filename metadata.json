@@ -1,0 +1,7 @@
+{
+  "name": "U-Space",
+  "description": "A futuristic, glassmorphism-styled ISS tracker that uses Gemini to analyze viewing conditions and provide mission briefings for upcoming flyovers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
